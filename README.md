@@ -12,7 +12,7 @@ The model is trained on **ball-by-ball IPL data** sourced from **Kaggle**.
 - Interactive **Streamlit web interface** for real-time predictions
 
 ## ⚙️ Dependencies
-- Python 3.x  
+- Python
 - streamlit  
 - pandas  
 - numpy  
